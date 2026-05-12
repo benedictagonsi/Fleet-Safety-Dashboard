@@ -83,7 +83,7 @@ Management required a centralized reporting solution to:
 
 ### Main Dashboard
 
-![Dashboard](Dashboard Screenshot.png)
+[Fleet Safety Dashboard](https://github.com/benedictagonsi/Fleet-Safety-Dashboard/blob/main/Dashboard%20Screenshot.png)
 
 ---
 
