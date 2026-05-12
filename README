@@ -1,0 +1,82 @@
+# 🚛 Fleet Safety & Driver Behaviour Analytics Dashboard
+
+Operational analytics project focused on monitoring fleet incidents, driver behaviour trends, and safety risk exposure using Excel dashboards and business intelligence reporting.
+
+---
+
+## 📌 Project Overview
+
+This project was developed to support fleet operations management by providing visibility into driver behaviour, incident trends, and high-risk operational patterns.
+
+The dashboard enables management to:
+
+- Monitor monthly fleet incidents
+- Identify high-risk trucks/drivers
+- Analyze behavioural safety trends
+- Support incident reduction initiatives
+- Improve operational safety decision-making
+
+---
+
+## 📌 Business Problem
+
+Fleet incidents and unsafe driving behaviours were increasing across monitored vehicles, creating operational and safety risks.
+
+Management required a centralized reporting solution to:
+
+- Track incident trends monthly
+- Identify recurring risk behaviours
+- Monitor high-risk vehicles
+- Support targeted driver intervention
+- Improve fleet safety visibility
+
+---
+
+## 📌 Project Objectives
+
+- Analyze Month-on-Month (MoM) incident trends
+- Monitor driver behaviour patterns
+- Identify top risk trucks/drivers
+- Support operational safety interventions
+- Develop executive-level reporting dashboards
+
+---
+
+## 📌 Tools & Skills Used
+
+### Tools
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Dashboard Design
+
+### Skills
+- Data Cleaning
+- KPI Reporting
+- Operations Analytics
+- Fleet Risk Monitoring
+- Data Visualization
+- Business Intelligence
+- Executive Reporting
+
+---
+
+## 📌 Dashboard Features
+
+### Executive KPIs
+- Total Incidents
+- Incident per Truck
+- Monthly Incident Change (%)
+- High-Risk Trucks
+
+### Analysis Sections
+- Monthly Incident Trend
+- Top Risk Trucks
+- Top Incident Categories
+- Behavioural Risk Monitoring
+- Operational Recommendations
+
+---
+
+└── insights/
