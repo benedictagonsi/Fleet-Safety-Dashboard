@@ -79,4 +79,49 @@ Management required a centralized reporting solution to:
 
 ---
 
+## 📌 Dashboard Preview
+
+### Main Dashboard
+
+![Dashboard](dashboard-screenshot.png)
+
+---
+
+## 📌 Key Insights (April Example)
+
+- Total incidents reduced to 1,927 (-13% MoM)
+- Incident levels improved following March spike
+- Risk remained concentrated among a few trucks
+- Seat Belt, Camera Block, and Forward Collision alerts remained the top incident categories
+- Continuous monitoring and driver coaching remain critical
+
+---
+
+## 📌 Recommendations
+
+- Prioritize intervention for high-risk trucks
+- Reinforce seat belt and safety compliance
+- Strengthen driver coaching initiatives
+- Maintain weekly monitoring and monthly reporting
+- Escalate repeat high-risk behaviour
+
+---
+
+## 📌 Business Impact
+
+The dashboard improved visibility into fleet risk exposure and enabled data-driven safety monitoring, helping management identify recurring operational risks and prioritize targeted interventions.
+
+---
+
+## 📌 Repository Structure
+
+```plaintext
+fleet-safety-dashboard/
+│
+├── README.md
+├── dashboard-screenshot.png
+│
+├── reports/
+├── data/
+├── visuals/
 └── insights/
